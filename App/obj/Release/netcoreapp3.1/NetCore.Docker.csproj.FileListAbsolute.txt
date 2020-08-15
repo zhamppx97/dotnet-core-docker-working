@@ -1,0 +1,13 @@
+F:\projects\git-repos\dotnet-core-docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.exe
+F:\projects\git-repos\dotnet-core-docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.deps.json
+F:\projects\git-repos\dotnet-core-docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.runtimeconfig.json
+F:\projects\git-repos\dotnet-core-docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.runtimeconfig.dev.json
+F:\projects\git-repos\dotnet-core-docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.dll
+F:\projects\git-repos\dotnet-core-docker-working\App\bin\Release\netcoreapp3.1\NetCore.Docker.pdb
+F:\projects\git-repos\dotnet-core-docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.csprojAssemblyReference.cache
+F:\projects\git-repos\dotnet-core-docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.AssemblyInfoInputs.cache
+F:\projects\git-repos\dotnet-core-docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.AssemblyInfo.cs
+F:\projects\git-repos\dotnet-core-docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.csproj.CoreCompileInputs.cache
+F:\projects\git-repos\dotnet-core-docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.dll
+F:\projects\git-repos\dotnet-core-docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.pdb
+F:\projects\git-repos\dotnet-core-docker-working\App\obj\Release\netcoreapp3.1\NetCore.Docker.genruntimeconfig.cache
